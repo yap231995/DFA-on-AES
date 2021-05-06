@@ -8,5 +8,5 @@ For the simple DFA on Encryption on 8th Round, it ran 11 hrs on my computer,
 while the DFA on Encryption on 8th Round with 2 phases takes 3.5hrs on my computer. 
 For the 9th round Encryption it took roughly 2-5 mins. 
 
-For progmra written in Python,
+For program written in Python,
 It took 3.5hrs to run the 9th round Encryption. 
